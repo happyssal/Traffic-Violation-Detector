@@ -1,0 +1,23 @@
+# Python virtual environment
+venv/
+.venv/
+env/
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Ultralytics runs and model weights (often very large)
+runs/
+best.pt
+
+# Output videos (can be large)
+output_videos/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Any specific logs or temporary data
+*.log
+*.tmp

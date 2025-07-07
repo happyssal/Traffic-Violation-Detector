@@ -1,0 +1,9 @@
+path: ./
+train: images/train
+val: images/valid
+test: images/test
+nc: 3
+names:
+  0: traffic_light_red
+  1: car
+  2: stop_line
